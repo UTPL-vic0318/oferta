@@ -1,4 +1,5 @@
 site_name: Portal Académico
+site_url: https://UTPL-vic0318.github.io/oferta/
 theme:
   name: material
   features:
